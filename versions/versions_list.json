@@ -2,25 +2,17 @@
   {
     "stables":
       [
-        2,
+        1,
         {
           "1.0.0":
           "https://github.com/Le-herisson/Miaoucord/versions/1.0.0"
-        },
-        {
-          "1.0.1":
-          "https://github.com/Le-herissont/Miaoucord/versions/1.0.1"
-         }
+        }
       ]
   },
   {
     "betas":
       [
-        1,
-        {
-          "b1.0.2":
-          "https://github.com/Le-herisson/Miaoucord/versions/b1.0.2"
-        }
+        0
       ]
   }
 ]
